@@ -1,0 +1,406 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A desperate and dangerovs designe discovered concerning the fen-countries by a faithfull friend who as soone as it came to his knowledge hath taken some pains not only to discover but to prevent the same ; by order of the committee for the fenns published for the common-good, and in all humility presented to the high court of Parliament and in particular to some noble personages especially interressed [sic] and concerned therein.</title>
+            <author>Scotten, Edmund.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58831</idno>
+            <idno type="STC">Wing S2090</idno>
+            <idno type="STC">Wing D1206A_CANCELLED</idno>
+            <idno type="EEBO-CITATION">09348338</idno>
+            <idno type="OCLC">ocm 09348338</idno>
+            <idno type="VID">42799</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58831)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42799)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1307:13 or 1366:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A desperate and dangerovs designe discovered concerning the fen-countries by a faithfull friend who as soone as it came to his knowledge hath taken some pains not only to discover but to prevent the same ; by order of the committee for the fenns published for the common-good, and in all humility presented to the high court of Parliament and in particular to some noble personages especially interressed [sic] and concerned therein.</title>
+                  <author>Scotten, Edmund.</author>
+               </titleStmt>
+               <extent>[4], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G.B. and R.W. and are to be sold by Robert Constable,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: Certaine exceptions against Sir Cornelius Virmuden his designe for the drayning of the Fens.</note>
+                  <note>"To the high court of Parliament" and "To the Right Honourable William Earle of Bedford" signed: Edmund Scotten.</note>
+                  <note>This item can be found at reels 1307:13 and 1366:17.</note>
+                  <note>Wing number D1206A cancelled in Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vermuyden, Cornelius, --  Sir, 1590-1677.</term>
+               <term>Reclamation of land --  England.</term>
+               <term>Fens, The (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42799:1"/>
+            <pb facs="tcp:42799:1"/>
+            <p>A DESPERATE AND DANGEROVS DESIGNE DISCOVE<g ref="char:EOLhyphen"/>RED CONCERNING The <hi>FEN-COUNTRIES; BY</hi> A faithfull friend, who as ſoone as it came to his knowledge, hath taken ſome pains, not only to diſcover, but to prevent the ſame; By order of the Committee for the FENNS. Publiſhed for the Common-good, and in all humility preſented to the High Court of <hi>PARLIAMENT.</hi> And in particular to ſome Noble Perſonages eſpecially interreſſed and concerned therein.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. B.</hi> and <hi>R. VV.</hi> and are to be ſold by <hi>Robert Conſtable</hi> at his Shop in Weſt<g ref="char:EOLhyphen"/>minſter-Hall. 1642.</p>
+         </div>
+         <div type="prefatory_letter">
+            <pb facs="tcp:42799:2"/>
+            <pb facs="tcp:42799:2"/>
+            <head>TO THE HIGH COVRT OF PARLIAMENT.</head>
+            <opener>
+               <salute>Moſt great and Honourable Senate:</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Shall not need to tell you what damages hath happened to the Common-wealth by ſome Projectors of late, who have pretended as faire to his Majeſty, as Sir <hi>Comelius Virmuden</hi> hath done in this his Deſigne; Your wiſdomes have found them out, and ſent them packing: And if it ſhall appeare by what is briefly ſet forth in theſe following lines, that this Deſigne is as dangerous, and may prove as hurtfull to the ſubjects as any of the for<g ref="char:EOLhyphen"/>mer; I doubt not but your Wiſdomes and Juſtice, will be ſo far from giving power by Law, for the purſuance of ſuch a Deſigne, that you will prevent the hurt and danger (being diſcovered) that may come thereby: Let not my meanneſſe or unworthi<g ref="char:EOLhyphen"/>neſſe cauſe what I have here done to be ſlighted; Once a poore Iſraelitiſh maide made knowne to a great Aſſyrian Lord, how he might be cured of his Leproſie, which was neither ſleighted by him, nor by that great King, but ſet them both on worke, and
+<pb facs="tcp:42799:3"/>much good came thereby: And ſhould I now have beene ſilent, being timely invited, (as one amongſt others whom it may concerne) both to make excepti<g ref="char:EOLhyphen"/>ons againſt it, and to offer any other deſigne (beſides my own particular ingagement calling me thereto by that loſſe I have already, and ſhall hereafter ſuſtaine) I ſhould have beene conſcious to my ſelfe, (not only of being no great friend to my country, but alſo of fur<g ref="char:EOLhyphen"/>thering this his deſign than otherwiſe, by not putting in execution what I by practiſe and experience knew might any way conduce to the preventing of ſo great, ſo eminent danger; threatning not onely one, or two, or a few private perſons in par<g ref="char:EOLhyphen"/>ticular, but whole townes, nay whole countries too in generall: I ſhall heare ſay no more, but daily pray, that God will aſsiſt you, and give you happy ſucceſſe in all your great undertakings.</p>
+            <closer>
+               <signed>EDMUND SCOTTEN.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:42799:3"/>
+            <head>TO THE RIGHT HONOURABLE WILLIAM EARLE OF <hi>BEDFORD,</hi> and his Honourable friends Adventurers in the great levell of <hi>FENNES.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F I ſhould now be ſilent, I ſhould not know how to frame my ſelf an excuſe: Having heretofore beene a ſervant to the Right Honourable, the Earle of <hi>Bedford,</hi> &amp; his Honorable friends in the drayning: And well obſerving how one Mr <hi>Hill</hi> who had then power put into his hands, did begin to go a wrong way to work upon <hi>Wisbeech</hi> River; which ſo ſoone as I perceived, I made it knowne, and al<g ref="char:EOLhyphen"/>though
+<pb facs="tcp:42799:4"/>ſome money was expended that way by him before I could prevent it, yet I ſaved them a <hi>1000.</hi> pounds; And can I now be ſilent? when by ſpeaking I may not onely ſave <hi>1000.</hi> but many thouſands, in preventing the purſuance of a deſperate deſſgne, which the Honorable Committee for the Fens have ordered to be printed, that whoſoever it concernes might make exceptions againſt it; ſilence in this caſe might give the Parliament and your Lordſhips juſt cauſe to approve thereof, which promiſe ſo faire, and to which none could take exceptions, though in<g ref="char:EOLhyphen"/>vited to it. I have therefore with all faithfulneſſe, briefly laid open the danger, which in all humility I preſent unto your Lordſhips, that the danger being diſcovered, which before lay hid under faire pro<g ref="char:EOLhyphen"/>miſes and prete<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> may be avoided: And now whe<g ref="char:EOLhyphen"/>ther theſe my <gap reason="illegible" resp="#OXF" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> may here prove acceptable or no, I know not; Yet however, I have declared my opinion, and left it extant, that future times may witneſſe that the danger was diſcovered. For my owne part I am confident, that if this deſigne be pur<g ref="char:EOLhyphen"/>ſued, what I have now written, one day by coſtly ex<g ref="char:EOLhyphen"/>perience will be found to be true.</p>
+            <closer>
+               <signed>Yours Honours to ſerve to his utmoſt, <hi>Edmund Scotten.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:42799:4"/>
+            <head>Certaine exceptions againſt Sir <hi>Cornelius Virmuden</hi> his deſigne, for the drayning of the Fens, with Queries upon each paſſage:</head>
+            <argument>
+               <p>As alſo divers arguments, drawne from the workes by him already made, and ſuch as are propounded by him to be made; which ſhew the deceitfulneſſe of his deſigne, that it cannot make a perfect dray<g ref="char:EOLhyphen"/>ning. With ſome ſhort rules in generall <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they may be drayned and preſerved from inundation.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">A</seg>Ccording to an Order the 25. of <hi>Fe<g ref="char:EOLhyphen"/>bruary,</hi> I have made ſome excepti<g ref="char:EOLhyphen"/>ons, againſt Sir <hi>Cornelius Virmuden</hi> his deſigne, as I finde it in divers paſ<g ref="char:EOLhyphen"/>ſages of his booke, with queries up<g ref="char:EOLhyphen"/>on each paſſage; and from them, and ſome workes already done by him, I have framed ſome Arguments whereby it may evidently ap<g ref="char:EOLhyphen"/>peare, that although hee promiſeth to draine the Fennes, and ſeemes to take care that none be wronged thereby, yet in purſuance of his deſigne, he will not be able to performe the for<g ref="char:EOLhyphen"/>mer,
+<pb n="2" facs="tcp:42799:5"/>nor make good the later; and alſo have ſhew<g ref="char:EOLhyphen"/>ed how the greateſt part of the Fennes may bee made winter grounds, and Navigation preſerved; and no man wronged nor indangered, and the charge not ſo great, but that the Fennes will abun<g ref="char:EOLhyphen"/>ly requite the coſt.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Pa. 2. li. 20. He ſets downe 400000. Acres of Fenne Lands, which being made winter grounds, would be an unexpected benefit of ſix hundred thouſand pounds <hi>per annum,</hi> and upwards, which is more by one halfe then ever they will, as the rates of Landes now goe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> Whether this be not a bad beginning at firſt daſh, to misinforme his Majeſtie, of purpoſe to worke his affections the more to the drayning, and that ſo as Sir <hi>Cornelius</hi> might have the better allowances.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Pa. 5. li. 29. He ſaith it is apparant that in pro<g ref="char:EOLhyphen"/>ceſſe of time, the Outfalls of <hi>Wisbitch</hi> and <hi>Wel<g ref="char:EOLhyphen"/>land,</hi> will utterly decay, and that for want of water, Pa. 5. li. 23. pa. 14. li. 6. and yet pa. 13. li. 30. he will take away part of <hi>Glean,</hi> and all <hi>Wel<g ref="char:EOLhyphen"/>land,</hi> to <hi>Mortons Leame,</hi> and ſo to <hi>Wisbitch:</hi> and yet have water enough to keepe open the Out<g ref="char:EOLhyphen"/>fall of <hi>Welland,</hi> pa. 18. li. 11. And yet one reaſon why he turnes the water of <hi>Welland</hi> to <hi>Wisbitch,</hi> is becauſe that thereby he will gaine and keepe open a good Outfall for <hi>Neene.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> Whether<g ref="char:punc">▪</g> firſt theſe ſeverall paſſages doe not contradict each other; ſecondly, if it be appa<g ref="char:EOLhyphen"/>rant, that the Outfall of <hi>Welland</hi> will decay be<g ref="char:EOLhyphen"/>cauſe there is no more water put to it, how can
+<pb n="3" facs="tcp:42799:5"/>that Outfall be maintained, when part of <hi>Glean,</hi> and all <hi>Welland</hi> is taken from it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Pa. 14. li. 21. He tels how he will maintaine it; his words are, And by this meanes the old Chan<g ref="char:EOLhyphen"/>nell of <hi>Welland</hi> will become very uſefull to the countrey, by the Saſſe or Navigable Sluce to be ſet at <hi>Waldron</hi> Hall, for Navigation to water the countrey in Summer time, and to ſcowre the Outfall, and pa. 22. li 6. and if need be, the ſoo<g ref="char:EOLhyphen"/>ner to gather head by meanes of the Sluce and Saſſe, which are to be below it, on <hi>Welland,</hi> to ſcoure the Outfall.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> Whether that a Sluce placed 10. or 12. miles from the Outfall to ſcoure it, be not a conceipt ſo vaine and ridiculous, that it deſerves no farther anſwer.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Pa. 15. li. 9. He hath another helpe which is the downefall of <hi>Deeping</hi> and <hi>Thorney;</hi> his words are, If it were not to preſerve Navigation for <hi>Spaulding,</hi> it were not amiſſe to bring all the downefall of <hi>Deeping</hi> and <hi>Thorney</hi> through <hi>Ellow,</hi> and ſo to <hi>Wisbitch</hi> Outfall by a new chan<g ref="char:EOLhyphen"/>nell, and this is another remedy.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> The firſt, if the cannot make uſe of it; but hee will want water to preſerve Navigation for <hi>Spaulding,</hi> kow is it another remedy? Or whe<g ref="char:EOLhyphen"/>ther will he turne the downefall of <hi>Deeping</hi> and <hi>Thorney,</hi> through <hi>Ellow,</hi> and ſo to <hi>Wisbitch</hi> Out<g ref="char:EOLhyphen"/>fall by a new Channell, though he doe deſtroy Navigation to <hi>Spauding.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> The ſecond, whether the downefall uſually in Summer time be not ſo little, that the very bot<g ref="char:EOLhyphen"/>tome
+<pb n="4" facs="tcp:42799:6"/>of the Dikes be dry, and will not then <hi>Spaulding</hi> Outfall Sand quite up, and for winter time (if the Fennes be drained) will not the downefall be low in the Dikes, of <hi>Deeping</hi> Fens, two foote, or at leaſt one, under the ſuperficies of the Fennes; and Sir <hi>Cornelius</hi> ſaith, pa. 15. li. 3. <hi>Deeping</hi> Fennes are very low, and yet the downefall muſt runne lower hee will confeſſe, then what force can this downefall have to ſcoure the Outfall, and preſerve Navigation for <hi>Spaulding;</hi> is non this if well conſidered, of as ſtrange a conceipt, as that a Navigable Sluce at <hi>Waldron</hi> Hall ſhould doe it?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> Thirdly, if it be apparant that the Outfalls of <hi>Wisbitch</hi> and <hi>Welland</hi> will decay by the increaſe of Sands, as now they are, when they have ſo much freſh water to keepe them open, that ſome<g ref="char:EOLhyphen"/>times it cannot be conteined between the bankes, then how ſhall the water that muſt come through the Sluce at <hi>Waldron</hi> Hall and the downefall of <hi>Deeping</hi> and <hi>Thorney<g ref="char:punc">▪</g>
+               </hi> which is lower then it pre<g ref="char:EOLhyphen"/>ſerve Navigation for <hi>Spaulding,</hi> or keepe open the Outfall of <hi>Welland.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Pa. 23. li. 26. He ſaith <hi>Welland</hi> and the Shire <hi>Drayne,</hi> will be turned to be good ſervants, in ſtead of ill maſters.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> Whether by this way Sir <hi>Cornelius</hi> hath ſet forth, it be not moſt certaine that <hi>Welland</hi> will doe no ſervice at all, no not ſo much in Summer time as carry the ſmalleſt boate, nor any part of the downefall.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Pa. 23. li. 11. He ſaith the Fen waters for that
+<pb n="5" facs="tcp:42799:6"/>part of the countrey, muſt goe part to <hi>Crowland,</hi> and ſo by <hi>Spaulding,</hi> to the Sea, and by <hi>Murro Plaſh,</hi> as need ſhall require: And if the fall can be gained at <hi>Guyhurne,</hi> part may goe by <hi>Wisbitch,</hi> otherwiſe <hi>Welland</hi> and <hi>Plaſh</hi> muſt remaine the onely draines for the downefall, which are not ſufficient to receive it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> Whether this (like many other paſſages in his booke) be not very uncertaine, obſerve his words (if the fall can be gained at <hi>Guyhurne</hi>) but if not, <hi>Welland</hi> and <hi>Murro Flaſh</hi> muſt be the only draines, which he ſaith are not ſufficient to receive it; So that if the fall cannot be gained at <hi>Guyhurne,</hi> this muſt remaine an imperfect worke; but then if the Outfall of <hi>Welland</hi> be quite ſanded up, then he hath but <hi>Murro Plaſh</hi> alone, and if two be not ſufficient, what will one of them doe?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> Pa. 26. li. 8. He ſaith it may be objected, that the inhabitants of <hi>Peterborough</hi> have Navigati<g ref="char:EOLhyphen"/>on from their towne to <hi>Linne</hi> by the River <hi>Neene,</hi> as now it runneth, which will then be taken a<g ref="char:EOLhyphen"/>way; he anſwereth, that the workes being thus contrived, they ſhall not need to fetch and carry their commodities ſo farre, but goe the neareſt way to <hi>Wisbitch.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> Whether this ſatisfactory ſeeming anſwer (to omit here the dammage <hi>Linne</hi> may ſuffer there<g ref="char:EOLhyphen"/>by) doth give any ſatisfaction at all: if he meane they ſhall goe to <hi>Wisbitch</hi> and ſo by the Sea to <hi>Linne,</hi> then whether theſe watermen, and their veſſells be fit for a Sea voyage or no, if not, then what ſhall the inhabitants of <hi>Peterborough</hi> doe,
+<pb n="6" facs="tcp:42799:7"/>untill the two rivers meeting above have ground out the Channell, that <hi>VVisbitch</hi> may be made an Haven towne<g ref="char:punc">▪</g> may not his bankes placed at ſuch a great diſtance be broken, or torne, and cut, as they were this laſt winter; and then how ma<g ref="char:EOLhyphen"/>ny yeares may the inhabitants of <hi>Peterborough,</hi> part of <hi>Northampton, Leiceſter ſhire</hi> and <hi>Rutland,</hi> waite by a tedious expectation untill <hi>VVisbitch</hi> may ſerve their turne, as <hi>Linne</hi> now doth, what ſhall they doe in the meane time?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> Pa. 29. li. 6. He ſaith <hi>Owſe</hi> may not goe downe the Fennes as now it doth, but the beſt way is to turne the River at <hi>Erith,</hi> into, and the next unto <hi>Bedford</hi> River, and to ſhut the paſſage of <hi>Owſe,</hi> as now it goeth by a croſſe banke through the River to the firme land<g ref="char:punc">▪</g> and li. 26. the three Ri<g ref="char:EOLhyphen"/>vers of <hi>Mildenhall, Brandon</hi> and <hi>Stoake,</hi> muſt bee made one River.</p>
+            <p>And to that end <hi>Mildenhall</hi> muſt bee brought into <hi>Brandon,</hi> and both into <hi>Stoake,</hi> and all into <hi>Owſe,</hi> and in that manner, that the downefall of the Levell may be brought through a draine, to be made to a better fall then that of <hi>Stoake</hi> for the downefall of <hi>Graunt</hi> to goe in.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> Whether when old <hi>Owſe</hi> is ſtopped and <hi>Mil<g ref="char:EOLhyphen"/>denhall, Brandon,</hi> and <hi>Stoake,</hi> bee turned another way, and fall into <hi>Owſe</hi> neere <hi>Stow Bridge,</hi> as is ſet forth in the Mappe, at the end of his booke, whe<g ref="char:EOLhyphen"/>ther then the Tides which now flow up in Sum<g ref="char:EOLhyphen"/>mer time foure miles above <hi>Ely,</hi> will not then flow up into old <hi>Owſe</hi> alſo, as farre as his ſtop at <hi>Erith,</hi> and into the other Rivers of <hi>Mildenhall</hi>
+               <pb n="7" facs="tcp:42799:7"/>and <hi>Brandon,</hi> which then will be emptie, and fill them with Sand, cauſing them in ſhort time to be ſo much ſanded up, that they will not doe ſo much as carry away the downefall, having no quantitie of freſh water, to carry our their Sands againe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> Second, whether when all <hi>Owſe</hi> is ſtopped at <hi>Erith,</hi> and muſt not come into old <hi>Owſe</hi> againe, untill it come to <hi>Salters Load,</hi> and <hi>Mildenhall, Brandon,</hi> and <hi>Stoake,</hi> muſt not come into <hi>Owſe,</hi> untill a little above <hi>Stow Bridge,</hi> and all <hi>Neene</hi> turned to <hi>VVisbitch,</hi> ſo that for above 30. miles ſpace, there will be but <hi>Graunt</hi> onely, which in Summer time will ſcarce cover the bottome of the old <hi>Owſe,</hi> can there poſſibly be a foote of wa<g ref="char:EOLhyphen"/>ter in many places, will there be ſix inches of wa<g ref="char:EOLhyphen"/>ter upon <hi>Ely</hi> Hards which are ſhallow and broad; and what a deſigne is this, to deprive <hi>Cambridge, Linne, VVisbitch Spaulding, Ely</hi> and <hi>Peterborough,</hi> of Navigation, and doth it not greatly behoove thoſe great townes of Naviga<g ref="char:EOLhyphen"/>tion, and countries about them, to ſeeke in time to prevent the proſecution of ſuch a deſigne?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/> Pa. 5. li. 23. Hee confeſſeth that the ſands in Summer time now overcome the Ebbes ſome<g ref="char:EOLhyphen"/>what in <hi>Linne</hi> haven, yet hee ſaith they doe not lie long, for the firſt land waters or next ſpring tides carry them away.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> If the next ſpring Tides will doe it, how is it apparant that the Outfalls of <hi>VVisbitch</hi> and <hi>VVel<g ref="char:EOLhyphen"/>land</hi> will utterly decay by the encreaſe of the Sands, for want of freſh waters, Pa. 5. li. 29. and
+<pb n="8" facs="tcp:42799:8"/>how is that the Sands now in <hi>Linne</hi> Haven over<g ref="char:EOLhyphen"/>come the Ebbes in Summer time; doe not the Spring Tides keepe their conſtant courſe all Summer long?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10"/> Pa. 5. li. 28. The firſt land waters or next ſpring tides carry out the Sands againe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> Whether it is not plaine and manifeſt by his owne confeſſion above, that the Spring Tides wi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l not carry out the Sands they bring in, though here bee would make his Reader beleeve they will; can any thinke hee would have ſo contra<g ref="char:EOLhyphen"/>dicted himſelfe, if he had thought his deſigne ſhould have beene printed, that whom it con<g ref="char:EOLhyphen"/>cernes might make exceptions to it<g ref="char:punc">▪</g> but if the Spring Tides faile, he ſaith the firſt Land waters will doe it, pa. 5. li. 28. but then is it not moſt plaine by his booke, and by the workes ſet forth in the Mappe at the end of the booke, that hee will take away thoſe land waters, part of <hi>Glean,</hi> and all <hi>VVelland,</hi> and from <hi>Spaulding,</hi> and <hi>Neene</hi> wholly from <hi>Linne</hi> and ſtop <hi>Owſe</hi> and <hi>Milden<g ref="char:EOLhyphen"/>hall,</hi> and <hi>Braudon</hi> and <hi>Stoake,</hi> and turne them a<g ref="char:EOLhyphen"/>nother way, and leave no land waters in theſe Rivers for many miles together but only <hi>Graunt,</hi> muſt it not then follow by his owne confeſſion, that theſe Rivers will be ſanded up; and ſo not Navigation onely deſtroyed, but the Rivers ſpoyled that they will not ſo much as carry away the downefall.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11"/> Pa. 26. li. 4. He ſaith, and for inſtance the <hi>Owſe</hi> from <hi>Littleport</hi> to <hi>Linne,</hi> keepes his depth, by rea<g ref="char:EOLhyphen"/>ſon of the backe waters.</p>
+            <pb n="9" facs="tcp:42799:8"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> What backe waters doth he meane? If he meane <hi>Mildenhall</hi> and <hi>Braudon,</hi> and the <hi>Owſe</hi> above <hi>Lit<g ref="char:EOLhyphen"/>tleport,</hi> which are backe waters from <hi>Linne</hi> and <hi>Littleport,</hi> theſe he ſhewes you plainly he meanes to take away. And then if theſe backe waters were the cauſe, as here he confeſſeth, that <hi>Owſe</hi> keepes his depth now betweene <hi>Littleport</hi> and <hi>Linne,</hi> then muſt it not needs follow, when theſe are taken away, the <hi>Owſe</hi> will looſe his depth, and Sand up; what neede we any other witneſſe in this, he himſelfe hath confeſſed it, both here and elſe where, pa. 5. li. 29. the miſchiefe that will follow upon it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="12"/> Pa. 7. li. 11. he adviſeth not to goe the ordina<g ref="char:EOLhyphen"/>ry way of drayning to avoyd inconveniences of great and vaſt expences, many difficulties of inundations, which otherwiſe would depend thereon; and pa. 9. figure 1. for theſe reaſons.</p>
+            <p>Firſt, that the workes may be made at a farre leſſe charge.</p>
+            <p>Secondly, that they will ſtand with more ſafe<g ref="char:EOLhyphen"/>tie and no hazzard of inundation, and ſo become habitable.</p>
+            <p>Thirdly, not ſubject to halfe that reparation.</p>
+            <p> Fourthly, and the land of a farre better value, then the other way.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> If the contrary of all theſe be made to appeare moſt evident, then whether for all theſe faire pre<g ref="char:EOLhyphen"/>tences, this be not the true cauſe he will not goe the ordinary way.</p>
+            <p>Firſt, becauſe he would ſeeme to have more skill in drayning then others.</p>
+            <pb n="10" facs="tcp:42799:9"/>
+            <p>Secondly; and ſo indeare his ſervice that hee might have more money yearely for his pay.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="13"/> Pa. 10. figure 3. He ſaith, that bankes ſo much as may be are to be laid out from the mooriſh grounds, and pa. 12. li. 13. bankes made of moo<g ref="char:EOLhyphen"/>riſh ground, chargeable and dangerous.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> Then why doth he himſelfe ſwerve ſo much from his owne rules, for may not the waters of <hi>Glean</hi> and <hi>VVelland</hi> be ſent to the Sea betwixt bankes made of Clay and other indurable earth, with ſuch force and ſtrength, that will cauſe and keep open a good Outfall, with helpe of a Sluce placed below <hi>Spaulding?</hi> And yet hee adviſeth to turne <hi>Stow</hi> brooke, part of <hi>Glean,</hi> and all <hi>VVel<g ref="char:EOLhyphen"/>land</hi> into <hi>Neene;</hi> and all theſe waters in time of greateſt floods muſt be pent betwixt two Bankes made of light Moore and Haſſockes, betweene <hi>Eldernell</hi> and <hi>Guyhurne,</hi> is not this a very dange<g ref="char:EOLhyphen"/>rous way even by his owne confeſſion here?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="14"/> Pa. 10. figure 4. Hee ſaith, Rivers are to bee carried on the higheſt grounds where poſſibly they may be, yet he will have <hi>Glean</hi> and <hi>VVel<g ref="char:EOLhyphen"/>land,</hi> which may poſſibly goe to <hi>Spaulding</hi> Out<g ref="char:EOLhyphen"/>fall, and make it very good, being as he ſaith the higher grounds, to goe to <hi>Neene,</hi> and ſo that way to the Sea, which he confeſſeth to be lower, pa. 17. li. 8. where it cannot poſſibly goe, as after will appeare.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> Whether in this alſo hee doth not contradict himſelfe.</p>
+            <p>Pa. 7. li. 24. He ſaith the Townes of <hi>Peterbo<g ref="char:EOLhyphen"/>rough, Erith</hi> and many others, ſtanding upon the
+<pb n="11" facs="tcp:42799:9"/>upper ends of the Rivers, and but low, would be thereby ſometimes drowned, unleſſe great fore<g ref="char:EOLhyphen"/>lands, and receptacles be.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> Whether for all this ſeeming care for them they will not be drowned more then they had wont, the waters being reſtrained of their former libertie by new bankes, and beſides the loſſe and dammages they may ſuſtaine by drowning their houſes, and <hi>Tilth</hi> fields, by reſtrayning the wa<g ref="char:EOLhyphen"/>ter and houlding it up; It may prove very hurt<g ref="char:EOLhyphen"/>full to their Cloſings and Meddowes in Summer times, when any flood ſhall come floating, and ſpoyling their Graſſe, more then formerly, and then doth it not much concerne the ſix Counties to cry downe ſuch a deſigne as this?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="16"/> Pa. 29. li. 14. (He ſaith) and to the end the wa<g ref="char:EOLhyphen"/>ter of <hi>Owſe</hi> ſhould not anoy the Country any fur<g ref="char:EOLhyphen"/>ther, the ſaid <hi>Bedford</hi> River is to be imbanked on each ſide thereof to keepe <hi>Owſe</hi> within certaine bounds, the bankes thereof muſt bee a great di<g ref="char:EOLhyphen"/>ſtance the one from the other, ſo that the water in time of extremitie may goe in a large roome to keepe it from riſing too high; and the more becauſe there is a great diſtance of about 25. miles from <hi>Erith,</hi> before it comes to the perfect fall.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> Whether here he ought not to have ſet downe how farre diſtance the bankes are to be made the one from the other, whether a quarter, or halfe a mile, or a whole one, or two, or three, or more, or leſſe. And then how high the water will riſe betweene his bankes, that the inhabitants of
+<pb n="12" facs="tcp:42799:10"/>
+               <hi>Maine</hi> and <hi>Welnigh,</hi> might know how deepe they ſhall be drowned in their houſes, whether foure or five or ſix or ſeaven foote deepe, And their new repaired Chappell at <hi>Welnigh,</hi> which had lately a gathering for, through many Counties; whe<g ref="char:EOLhyphen"/>ther they muſt not remove their Miniſters rea<g ref="char:EOLhyphen"/>ding Pue, and their owne as high or higher then their Pulpit is now; And that likewiſe <hi>Meepall</hi> men on the other ſide, might have knowne how high they ſhould be drowned in their Chappell, and houſes, that they might have time to re<g ref="char:EOLhyphen"/>moove them higher upon the hill ſide.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="17"/> Pa. 5. li. 3. p. 10. li. 1. He faith that the great le<g ref="char:EOLhyphen"/>vell of Fens is broad and of great extent and flat with little or no deſcent of its owne, and growne full of Haſſockes, Sedge, and Reede, and the wa<g ref="char:EOLhyphen"/>ters goe ſlowly away from the Lands, and out of the Rivers they come ſwift into, and upon it, out of the upland Countries; And pa. 10. figure 2. the levell is of great extent, 20. miles at leaſt from the upper ends to the fall. And yet he ſaith becauſe he ſets his bankes at ſo great a diſtance the waters will not riſe high againſt them, pa. 23. li. 3. pa. 29. li. 20.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> Whether here is not guile or ignorance, guile in that he ſaith the waters will not riſe high, when it is moſt certaine they will, ignorance if he thinkes as he faith, for they will riſe 6. or 7. foot high betweene his bankes, at leaſt, when the floods are foure or five foote over the ſuperfices of the Medowes, there needs no other proofe but his owne confeſſion in theſe words that the le<g ref="char:EOLhyphen"/>vell
+<pb n="13" facs="tcp:42799:10"/>is flat with little or no deſcent of its owne, and the waters goe ſlowly away, and come ſwift into and upon the Fens from the upland Coun<g ref="char:EOLhyphen"/>tries, now is it not moſt evident that where wa<g ref="char:EOLhyphen"/>ters have a great fall that they cannot goe backe againe, and a wide and ſwift paſſage into a levell betweene bankes, and a ſtraite and narrow paſ<g ref="char:EOLhyphen"/>ſage from that flat to the Sea: So that the wa<g ref="char:EOLhyphen"/>ter cannot by reaſon of ſuch narrow paſſage and the the tides, goe above halfe ſo faſt out of the Fennes to the Sea, as it comes into them: muſt it not needs follow in every mans judgement that at ſuch times, though his banks be 10. foote high, ſuch floods will riſe within two foote of the top, but if this be not plaine enough, By an example I am able to make it appeare, to him that hath the leaſt inſight into ſuch things.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="18"/> Pa. 6. li. 13 He ſaith the countries of <hi>Marſhland, Wisbitch</hi> and <hi>Holland</hi> are fenced by bankes from the waters of the Fens, and ſometimes they have beene overflowed by the ſaid waters and have often beene in great danger, and they are at con<g ref="char:EOLhyphen"/>tinuall charge for the maintenance of the ſaid Bankes: And yet he cannot deny but theſe bankes are made of Clay and other indurable Earth, and the waters had libertie to ſpread over all the great levell of Fens and aroſe not at any time above three foote in heighth over the levell.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> Whether the conſideration of this truth ought not to have kept him from attempting ſuch a de<g ref="char:EOLhyphen"/>ſigne as this? for might hee not from hence have drawne this concluſion, and that truly,
+<pb n="14" facs="tcp:42799:11"/>if banks made of good earth have bin ſometimes broken and the Lands overflowne to unſpeakea<g ref="char:EOLhyphen"/>ble loſſe. And are often in great danger, and they are at a continuall charge to maintaine them, and then the water but low, having ſcope to diſperce over all the great levell; what a vaine deſigne is mine that I ſhould perſwade to turne three Ri<g ref="char:EOLhyphen"/>vers into one to be carryed to the Sea betweene Bankes made of light Moore and Haſſocks which will never be able to hold when ſix or ſeven foot of water ſhall riſe in heighth betwixt them. But if the windes blow (as ſeldome they doe not when the waters are at higheſt) will be ſure to be broken and torne to peeces, And then what will become of me, and my deſigne, wherein I have pretended to his Majeſtie, and other great Lords, a farre leſſe charge, and more ſafetie, and no hazzard of inundation, and better for habita<g ref="char:EOLhyphen"/>tion, and make the lands be of a better value, when they ſhall finde by coſtly experience the contrary of all theſe to be true.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="19"/> Pa. 8. li. 19. He ſaith the Levell would become ſurrounded and ſo without perfection from with<g ref="char:EOLhyphen"/>in, and by the waters without, the bankes will lie in continuall danger of inundation for want of a good fall in the winter, and by a Winde<g ref="char:EOLhyphen"/>catch breake and undoe all againe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> Whether the Serious conſideration of this al<g ref="char:EOLhyphen"/>ſo ought not to have ſtaid him in preſenting this deſigne and have cauſed his thoughts to have reaſoned thus; If when the Levell is but ſurroun<g ref="char:EOLhyphen"/>ded a little wanting perfection from within, and
+<pb n="15" facs="tcp:42799:11"/>by the waters without the bankes, will be in con<g ref="char:EOLhyphen"/>tinuall danger of inundation, and by a wind catch, breake and teare all the bankes to peeces, and ſo undoe all againe. What will become of my bankes in time of ſuch Wind-catches, when the waters will riſe 6. or 7. foot betweene them how will they be torne and broken, and all un<g ref="char:EOLhyphen"/>done again: And then what may the charge be to make them up the next Summer? And they will be broken and torne and undone againe the next winter: And ſo every Summer, as long as mo<g ref="char:EOLhyphen"/>ney will laſt they may be made up, and every winter be undone againe, and then where is farre leſſer charge, and where is ſafety from inunda<g ref="char:EOLhyphen"/>tion, and where will they become habitable, and of what value will theſe lands be of? And then laſtly how ſhall I looke for any favour from his Majeſtie, and thoſe Lords whom I have deceived they truſted to my skill and honeſty, and I ſhall proove no better then ſome cheater or Mounte<g ref="char:EOLhyphen"/>banke to them, ſure I will never doe this, though for the preſent it might gaine mee a thouſand pounds a yeare.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="20"/> Pa. 12. li. 7. And in caſe all the Rivers ſhould be inned and fenced with bankes to free the lands, and that great diſtances ſhould be left betweene banke, and banke, yet ſtill it muſt bee confeſſed that a multitude of bankes in this le<g ref="char:EOLhyphen"/>vell muſt be made through Mooriſh grounds, in length about 70000. rodde which would be very chargeable and dangerous; And (if all be conſi<g ref="char:EOLhyphen"/>dered) impoſſible that way to make a ſure worke.</p>
+            <pb n="16" facs="tcp:42799:12"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> Whether here hee doth not plainely confeſſe bankes made to fence lands with great diſtances betweene them, made through Mooriſh grounds are dangerous, and (if all be conſidered) impoſſi<g ref="char:EOLhyphen"/>ble that way to make a ſure worke, doth not this confeſſion then confute, or at leaſt wiſe contra<g ref="char:EOLhyphen"/>dict what he ſaid before, pa. 9. figure 2. that they will ſtand with more ſafetie and no hazzard of inundation, for though he may ſeeme to leſſen the charge by avoyding multiplicitie of Bankes, yet here can be no colour to leſſen the danger, but make it more unavoydable, becauſe he will turne two or three Rivers into one, which will charge his Mooriſh Bankes farre more then one ſingle River. And by what might be ſaid concerning the charge of his bankes, and his cuts through hard and ſtony grounds, and the maintenance, it would plainely appeare that if his deſigne were followed it would prove intollerable for charge.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="21"/> Pa. 25. li. 3. He ſaith it is needfull to make the opening of <hi>Wisbitch</hi> River in a larger manner then now it is, but forbeares to ſet downe how farre in length he will inlarge it, how broad and deepe he will make it, and the charge with the purchaſe of thoſe lands he muſt cut, worth 20. ſhillings an Acre <hi>per annum,</hi> that the charge might appeare, and that others might diſcerne whether that Outfall will conveigh three Ri<g ref="char:EOLhyphen"/>vers to the Sea, in time of greateſt floods be<g ref="char:EOLhyphen"/>fore the Bankes above be torne and broken to peeces.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> Whether in ſtead of imitating nature, pa. 13.
+<pb n="17" facs="tcp:42799:12"/>li. 1. doth he not in this and divers other darke paſſages rather imitate the popiſh Clergy, who keepe men as ignorant as they can, that they may the more eaſily deceive them, and leade them whether they liſt.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="22"/> Pa. 25. l. 25. It ſhall not be widened any more, the two Rivers meeting, will grinde the channell through the Marſh, and make <hi>Wisbitch</hi> an Haven towne like that of <hi>Linne,</hi> though not in ſuch mea<g ref="char:EOLhyphen"/>ſure of wideneſſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> If his two Rivers ſhall lie 7. or 8. foot high betweene his Bankes made of light Moore, and Haſſockes, untill it have grinded the Channell 4. or 5. miles through the Marſh, how often will thoſe bankes be broken and torne to peeces be<g ref="char:EOLhyphen"/>fore the Channell bee ground out; and when they are torne and broken to peeces, will not both the Fennes be drowned, and the water loſt that ſhould doe the buſineſſe?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="23"/> Pa. 24. he tels his Majeſtie that he would make a Banke from <hi>Stand Ground</hi> to the fields of <hi>Wit<g ref="char:EOLhyphen"/>tleſeii,</hi> and from <hi>Eldernell</hi> to <hi>Guyhurne</hi> on that ſide.</p>
+            <p>But as it is verily beleeved by many, that hee might be revenged on Maſter <hi>Burrell</hi> who would not ſtoope to him, he hath cauſed a banke to bee made on the ſame ſide through his ſeverall, and others, in length two miles nearer <hi>Wisbitch,</hi> by which meanes he hath not onely wronged Mr. <hi>Burrell</hi> and others many hundred pounds for the preſent, and cut up <hi>London Roade,</hi> to the pittifull foiling of Travelours, and deprived others of his
+<pb n="18" facs="tcp:42799:13"/>Majeſties Subjects wholly of their high way, but hath indangered the utter ruining of Maſter <hi>Bur<g ref="char:EOLhyphen"/>rell</hi> and others, and the drowning of whole townes and Churches, not caring, though hee ſpent his Majeſtie many thouſand pounds in vaine, to teach Maſter <hi>Burrell</hi> and others hereaf<g ref="char:EOLhyphen"/>ter not to oppoſe him.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>
+               </label> Whether this be not <hi>Haman</hi>-like, becauſe <hi>Mor<g ref="char:EOLhyphen"/>decay</hi> would not ſtoope to him, he was not con<g ref="char:EOLhyphen"/>tented to be revenged on <hi>Mordecai</hi> alone, but up<g ref="char:EOLhyphen"/>on all the Jewes, though he in no wiſe was able to recompence the Kings dammages by his wic<g ref="char:EOLhyphen"/>ked act.</p>
+            <div type="part">
+               <p>ANd now having ſpent ſome time in reading and taking ſome. Notes out of his booke, and finding how one part of it croſſeth and contra<g ref="char:EOLhyphen"/>dicts another: And if ſome part of it be true, the other muſt needs be falſe, and ſo needs no other proofe to confute it, but his owne words I might reſt here, but becauſe this way of keeping wa<g ref="char:EOLhyphen"/>ter aloft betweene bankes ſet at a great diſtance is of ſuch dangerous conſequence not onely to ſuch as ſhall be the adventurers, but to the inhabi<g ref="char:EOLhyphen"/>tants adjoyning neare to ſuch bankes, and having ſuch plentifull matter to make it evident to all men, to be a moſt deceitfull way, and the money ſo expended to be utterly loſt, altogether fai<g ref="char:EOLhyphen"/>ling of the end it ſhall be disburſed for; namely the drayning of the Fens, I ſhall adde to what I have already obſerved in his booke 3. or 4. Ar<g ref="char:EOLhyphen"/>guments
+<pb n="19" facs="tcp:42799:13"/>more, firſt from the coſtly experience of others, the next from his owne workes altea<g ref="char:EOLhyphen"/>dy done, and laſtly from his proceedings and propoſitions ſet forth in this deſigne.</p>
+               <p>It is moſt apparant by what hath beene alrea<g ref="char:EOLhyphen"/>dy ſaid, that when the land floods ſhall deſcend from <hi>Northampton, Bedford,</hi> or other upland coun<g ref="char:EOLhyphen"/>tries: and ſhall ariſe in height 4. or 5. foote over the Superfices of the Medowes, they will ariſe 6. or 7. foote high betweene his Bankes, though placed at a great diſtance betweene them; and when the waters are thus aloft neare the top of the bankes the winds will have ſuch power to raiſe violent waves againſt them that will breake and teare them to peeces, they being made of light and ſpungie ſtuffe. And that they will doe ſo, all indifferent men that have experience of the Fennes will witneſſe with me.</p>
+               <p>It is well knowne there was a banke made betweene <hi>Upwell</hi> and <hi>Welnigh,</hi> about foure miles in length, made to preſerve Fens cal<g ref="char:EOLhyphen"/>led the <hi>Londoners</hi> Fennes, which Banke by its often tearing, breaking and blowing up after great ſummes of money expended, it wearied out the undertakers; And yet the waters aroſe not at any time above three foote in height in the Le<g ref="char:EOLhyphen"/>vell againſt that Banke; they having libertie to ſpread themſelves over the great Levell of the Fennes, from whence I draw this concluſion.</p>
+               <p>That if a Banke made in the ſame Fens which coſt many thouſand pounds, and but foure miles in length could not bee made to hold, but was
+<pb n="20" facs="tcp:42799:14"/>torne in peeces, broken and blowne up, and but 3. foot of water againſt it, whereby thoſe under<g ref="char:EOLhyphen"/>takers (though men of great eſtates) were forced to leave them and looſe all their labour and coſt.</p>
+               <p>Then the Bankes made by Sir <hi>Cornelius</hi> being of no better ſtuffe, when 6. or 7. foote of waters ſhall with violent waves beate againſt them, can<g ref="char:EOLhyphen"/>not poſſibly hold, but will be torne in peeces, bro<g ref="char:EOLhyphen"/>ken and blowne up.</p>
+               <p>But what neede I inſtance in Bankes of like na<g ref="char:EOLhyphen"/>ture, for this very Banke which Sir <hi>Cornelius</hi> hath already made was ſo neare breaking and blow<g ref="char:EOLhyphen"/>ing up this yeare that it hath coſt much money in bringing Earth, Bruſh, Faggots, and Fodder, ſheaves, and many hundred of Fir deales cut to preſerve it. And yet was dangerouſly torne, in ſo much, that if one living neare unto it, had not eſpyed it one Lords day at night, little before his going to bed, and called up neighbours out of their beds, and road to <hi>Wisbitch</hi> for more helpe: in their judgements in one two houres it had been broken, and had not onely drowned <hi>Walderſeii,</hi> but <hi>Wisbitch</hi> and <hi>Elme.</hi>
+               </p>
+               <p>From whence I frame this argument, that thoſe Bankes that will not hold one yeare but re<g ref="char:EOLhyphen"/>quire good coſt to preſerve them; And yet that coſt would not preſerve them from tearing, nor ſecure them from breaking, when the waters had libertie to ſpread, and ſo could not riſe high, whereby the windes might have power to raiſe violent waves againſt them, cannot poſſibly hold when the waters ſhall be pent up betweene two
+<pb n="21" facs="tcp:42799:14"/>bankes, and ſo lie high againſt them.</p>
+               <p>But the new Banke Sir <hi>Cornelius</hi> hath cauſed to be made in <hi>Walderſeii,</hi> hath had great coſt be<g ref="char:EOLhyphen"/>ſtowed upon it by bringing, Earth, Fodder, Sheaves, Bruſh, Faggots, and cutting many hun<g ref="char:EOLhyphen"/>dred of Deales to preſerve it, and yet was feare<g ref="char:EOLhyphen"/>fully torne, and in great danger to breake untill it was cut in a convenient place, or two, above, notwithſtanding the waters had ſcope to ſpread themſelves over 30. thouſand Acres, whereby they could riſe to nothing neare that height they will, when reſtrained of that liberty.</p>
+               <p>Therefore the bankes made and propounded to be made by Sir <hi>Cornelius Virmuden</hi> cannot poſſi<g ref="char:EOLhyphen"/>bly hold long, nor ſecure the Lands adjoyning.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> But that banke did not breake nor blow up, and Sir <hi>Cornelius</hi> is taken for a man of judge<g ref="char:EOLhyphen"/>ment and experience, ſure he would never have been ſo bold as to perſwade his Majeſty and o<g ref="char:EOLhyphen"/>ther great Lords, and now the Parliament to diſ<g ref="char:EOLhyphen"/>burſe ſuch great ſummes of money, if he did not well know his workes would hold, and cauſe a perfect draining.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> The cauſe that banke did not breake hath been ſhewed ſufficiently already: But for further an<g ref="char:EOLhyphen"/>ſwer hereto, I ſhall frame two or three arguments more; And firſt, from his Bankes and Sluce, that were not only torne and in great danger, but broken and blowne up, which he was intruſted to make on the Salt Marſhes; Thus,</p>
+               <p>That he that ſhall be entruſted to make bankes for preſerving of Marſhes intended to be plowed
+<pb n="22" facs="tcp:42799:15"/>and ſowne, which Marſhes, if kept dry, the firſt Crop might have been worth 5 <hi>li.</hi> an Acre: if he ſhall make ſuch bankes as ſhall be torne and bro<g ref="char:EOLhyphen"/>ken, and thereby thoſe Marſhes drowned, may well be ſuſpected to want judgement or care fit for ſuch a truſt.</p>
+               <p>But thus it hath fared with thoſe Bankes Sir <hi>Cornelius</hi> hath been intruſted by his Majeſty to make on the Marſhes aforeſaid, intended to bee plowed and ſowne.</p>
+               <p>Therefore his judgement or care may be juſtly ſuſpected in matters of ſo great concernment.</p>
+               <p>Another argument of this kinde if needed, might be framed from his Sluce he cauſed to be placed below the Shire drain, which hath coſt his Majeſty ſome 1000. li. all which is utterly loſt.</p>
+               <p>But in further anſwer to this objection, one ar<g ref="char:EOLhyphen"/>gument now may be framed from divers paſſa<g ref="char:EOLhyphen"/>ges in his book concerning his way of drayning, Thus,</p>
+               <p>That he that ſhall perſwade his Majeſty and other great Lords to turne two or three Rivers into one, ſtopping them of their ancient courſes, and carrying them another way to the Sea; tel<g ref="char:EOLhyphen"/>ling his Majeſty that by this meanes the Fennes will be drayned at a far leſſe charge and made the better for habitation, &amp; ſafer for inundation; And all this, that his Majeſty might take him for a skilfull man for deviſing ſuch a thrifty way, &amp; ſo allow him the greater wages although by this deſigne he deprive <hi>Cambridge, Ely, Linn, Peeterbo<g ref="char:EOLhyphen"/>rough, Wisbitch, Spaulding,</hi> and almoſt all other
+<pb n="23" facs="tcp:42799:15"/>Townes in, and all the Countries about the Fens (ex<g ref="char:EOLhyphen"/>cept ſome part of <hi>Huntington</hi> Shire) of their Naviga<g ref="char:EOLhyphen"/>tion, and wrong all the ſix Counties in their Lands and Meadows, and drown many Townes and Chur<g ref="char:EOLhyphen"/>ches, and in concluſion wrong his Majeſty and all o<g ref="char:EOLhyphen"/>ther great Lords in ſpending their money in vain, al<g ref="char:EOLhyphen"/>together failing of drayning the Fens, ought to bee tryed before he be truſted.</p>
+               <p>But all theſe particulars may be juſtly charged up<g ref="char:EOLhyphen"/>on Sir <hi>Cornelius Virmuden</hi> by this his deſigne.</p>
+               <p>Therefore he ought to be tryed before he be truſt<g ref="char:EOLhyphen"/>ed too far.</p>
+               <p>I ſhall conclude with one argument more in full anſwer to this objection, from the manner of his pro<g ref="char:EOLhyphen"/>ceedings, Thus,</p>
+               <p>That he that to bring his own ends to paſſe, hath not cared though he wrong the poore in ſetting them on work, and not paying them their wages, nor poore travellours in cutting up London Roade, and turning their loaden horſes upon his new bank, where they ſlip in, and are pittifully foyled. Nor other of his Majeſties Subjects, depriving them wholly of their ancient high-way, that of neceſſity they muſt goe at leaſt 4. miles about: Nor others in cutting and drow<g ref="char:EOLhyphen"/>ning their Lands, without giving them any ſatisfacti<g ref="char:EOLhyphen"/>on: Nor his Majeſty, but miſpending his mony, con<g ref="char:EOLhyphen"/>trary to the truſt repoſed in his promiſes, only to bee revenged on Mr. <hi>Burrell,</hi> not caring though in ſo do<g ref="char:EOLhyphen"/>ing he drown whole Towns and Churches, may alſo attempt to deceive and wrong this Parliament.</p>
+               <p>But Sir <hi>Cornelius Virmuden</hi> may be juſtly char<g ref="char:EOLhyphen"/>ged with the ſixe former of theſe particulars.</p>
+               <p>Therfore he may be ſo bold as to attempt the later.</p>
+               <p>And now ſince Sir <hi>Cornelius</hi> his great and maine
+<pb n="24" facs="tcp:42799:16"/>deſigne (which is turning two or three Rivers into one, and putting all thoſe waters in times of greateſt floods betweene bankes ſet at a great diſtance made through mooriſh grounds) is not onely dangerous, as he himſelfe confeſſeth, but is, or will be proved to be ſuch a way as will never drayne the Fennes though all the aforeſaid townes and countries may receive much prejudice by this workes notwithſtanding.</p>
+               <p>I ſhall here in ſhort lay downe ſome generall rules for drayning of this great levell, in ſuch manner, that although all cannot, yet the greateſt part of the Fennes may be made winter grounds, and wrong none, and ſecure all, and the charge not ſo great but that they will aboundantly requite it.</p>
+               <p>Let Rivers be made large and deepe, and there will be matter enough ariſing thereout with the indikes to make high bankes, neere on each ſide the Ri<g ref="char:EOLhyphen"/>vers, theſe bankes being made high, and but a ſmall diſtance betweene, will be a ſhelter to the water that ſhall run betwixt them as a hedge, or wall, will ſhelter cattell that lie neere unto them; ſo that the windes will have no power to raiſe violent waves againſt theſe bankes to teare them as the o<g ref="char:EOLhyphen"/>thers ſet at a great diſtance; ſo that here is one maine miſchiefe prevented already.</p>
+               <p>A ſecond miſchiefe will hereby be prevented with a benefit in the roome, for wheras ſuch banks (though placed at a great diſtance) could be made to hold, will reſtraine the waters of their former liberty, and ſo cauſe them to riſe higher in the Medowes above, then formerly, and ſo doe much hurt, ſuch deepe and large Rivers will prevent, for as ſoone as the floud begins to riſe in the Rivers above the Fens, it finds ſuch fall and current paſſage to the ſea, that it is ta<g ref="char:EOLhyphen"/>ken
+<pb n="25" facs="tcp:42799:16"/>downe as it begins to riſe, ſo as that which would have beene but a little flood before, will be no flood now, and ſo in Summer time will be much advantagious to their Medowes, cauſing their graſſe to be leſſe flooted then before.</p>
+               <p>A third benefit by deepe &amp; large Rivers with banks placed neare the ſides is this, when a great flood comes it finds ſuch fall &amp; current paſſage, that it wil be gone halfe into the Sea, in ſuch time, as without ſuch Ri<g ref="char:EOLhyphen"/>vers it will be climbing up to get above the ſuperfi<g ref="char:EOLhyphen"/>ces of the Fens betweene thoſe bankes ſo farre di<g ref="char:EOLhyphen"/>ſtant, for untill it be got a loft, it can goe but ſlowly (as is confeſſed by Sir <hi>Cornelius</hi>) wanting the fall it had before, and the haſſockes, reedes ſedge, and long graſſe will hinder the paſſage; and as ſoone as it is aloft, the windes will have power to raiſe violent waves which will whinder the bankes to peeces, for it muſt lie high againſt thoſe bankes, untill the two Rivers will grind out a paſſage for it foure miles be<g ref="char:EOLhyphen"/>tweene <hi>Wisbich-Horſhooe,</hi> and the Sea, as he ſaith it muſt, p. 25. l. 25. but there is a ſtraighter paſſage be<g ref="char:EOLhyphen"/>fore it come out of the Fens beſides that.</p>
+               <p>Now is it not much better that halfe a great flood be ſent ſpeedily into the Sea than to lie by the way tearing and breaking the banks?</p>
+               <p>A fourth benefit is a ſmall flood or riſe of water being pent up betwixt narrow bankes, will goe with force down a deepe River, and ſo ſcowre and keepe open the Outfalls, when the other loſeth a ſmall flood by the way.</p>
+               <p>Laſtly, this way, with ſome other neceſſary works as alſo ſome ſluces &amp; ſlakers, or inlets (which Sir <hi>Cor<g ref="char:EOLhyphen"/>nelius</hi> ſaith are remedies worſe then the diſeaſe) to conveigh the overplus of the great floods into the old
+<pb n="26" facs="tcp:42799:17"/>Rivers, Meares, and many diviſion dikes, which will all be low, and empty, before ſuch great floods come, and will receive ſuch overplus, and yet the greateſt part of the Fens will be dry in the time of the greateſt floods; And this way there is not a river nor drain, nor any other work of the late Earle of <hi>Bedfords</hi> but will when it is made as it ſhould, be of good uſe, and Navigation not ſo much as hindered in any parts be<g ref="char:EOLhyphen"/>longing to theſe Fens, &amp; no man hurt nor endanger<g ref="char:EOLhyphen"/>ed in his eſtate; and the charge to make theſe workes leſſe then one hundred thouſand pounds, provided that there be foure ſummers for the doing of them, and that the work at no convenient time of the yeare ſtay or be hindered for want of money. And the charge for maintenance of theſe workes will be far leſſe then Sir <hi>Cornelius</hi> would ſeeme to make it, for when theſe bankes are ſetled too low, as they will in few yeares, the indikes will be growne up, and will need deepening, and that earth will heighten them againe.</p>
+               <p>The bredth and depth of every River, the heighth and bredth of every Banke, the bigneſſe of every Sluce and Tunnell, and where they ſhould be placed, with an eſtimate of the charge of every particular work, as alſo the reaſons why any Sluce to be placed upon the River <hi>Owſe,</hi> or <hi>Neene,</hi> more then now are, will rather hinder then help Navigation, and will never in reſpect of drayning, requite for one halfe of the coſt, Is ſet forth in the ſecond part.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:42799:17"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
